@@ -195,11 +195,3 @@ This project demonstrates practical understanding of:
 - Enterprise AI Design
 - n8n AI Workflows
 
----
-
-# Author
-
-Sandeep Setty
-
-AI / GenAI / Agentic AI Enthusiast  
-Focused on building practical AI systems and workflow automation projects.
