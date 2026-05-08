@@ -152,17 +152,6 @@ Combines retrieved context with the user query to generate accurate responses.
 
 ---
 
-# Project Structure
-
-```text
-RAG_Chatbot_Workflow/
-│
-├── rag_chatbot_workflow.json   # n8n workflow export
-├── README.md              
-```
-
----
-
 # Example Use Cases
 
 - AI Contract Assistant
